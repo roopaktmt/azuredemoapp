@@ -11,7 +11,7 @@ public class AzuredemoappApplication {
 	
     @GetMapping("/om")
 	public String getData() {
-		return "OM SAMARTHA SADGURU SAINATH";
+		return "OM SAMARTHA SADGURU SAINATH sadhguru sairam";
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(AzuredemoappApplication.class, args);
